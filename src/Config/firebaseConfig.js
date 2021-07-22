@@ -1,3 +1,4 @@
+// eslint-disable-next-line import/no-anonymous-default-export
 export default {
     apiKey: "AIzaSyCGd59D15gCz_cg7-Kjm_O3U2Tyv3CfOGI",
     authDomain: "my-git-app-7b5f5.firebaseapp.com",
