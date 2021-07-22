@@ -71,7 +71,7 @@ const handleSubmit = e => {
                   <Label for="email" sm={3}>
                     Email
                   </Label>
-                  <Col sm={8} >
+                  <Col sm={9} >
                     <Input
                       type="email"
                       name="email"
@@ -87,7 +87,7 @@ const handleSubmit = e => {
                   <Label for="password" sm={3}>
                     Password
                   </Label>
-                  <Col sm={8}>
+                  <Col sm={9}>
                     <Input
                       type="password"
                       name="password"
